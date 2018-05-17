@@ -1,0 +1,25 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "https://wojtekboj.github.io/learning-git-2/ Link do strony",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtekboj/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtekboj/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/wojtekboj/learning-git-2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.4",
+    "nu-html-checker": "^0.1.0"
+  }
+}
